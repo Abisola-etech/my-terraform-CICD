@@ -21,5 +21,4 @@ variable "main_vpc_name" {
     description = "name of vpc"
     type = string
     default =  "Main VPC"
-
 } 
